@@ -14,6 +14,7 @@ source: https://github.com/ptitSeb/box64
 video:
 - [DOWNLOADING STEAM GAMES + GOLDBERG STEAM EMULATOR on RADXA ROCK5B with BOX64/BOX86](https://youtu.be/KFgPwZ19eGQ)
 - [BOX64 - Linux x86_64 Emulator | PREVIEW](https://youtu.be/244bgg0m570)
+- [Rock 5B: Windows Gaming on ARM64 (Part 1)](https://youtu.be/98ppuZbOGrU)
 
 channel:
 - https://www.youtube.com/channel/UCgfQjdc5RceRlTGfuthBs7g
