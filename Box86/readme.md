@@ -7,3 +7,5 @@ discuss: https://askubuntu.com/questions/1376366/is-there-any-translation-layer-
 
 # Box64
 guide: https://pimylifeup.com/raspberry-pi-x64/
+
+source: https://github.com/ptitSeb/box64/issues
